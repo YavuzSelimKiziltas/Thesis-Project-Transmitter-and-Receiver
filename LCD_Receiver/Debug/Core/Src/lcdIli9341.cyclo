@@ -1,0 +1,8 @@
+../Core/Src/lcdIli9341.c:27:6:Ili9341_SetArea	1
+../Core/Src/lcdIli9341.c:44:6:Ili9341_SetAreaRead	1
+../Core/Src/lcdIli9341.c:64:6:Ili9341_DrawRect	3
+../Core/Src/lcdIli9341.c:74:18:Ili9341_GetDrawAddress	1
+../Core/Src/lcdIli9341.c:79:6:Ili9341_Init	1
+../Core/Src/lcdIli9341.c:159:6:Ili9341_WriteCmd	1
+../Core/Src/lcdIli9341.c:165:6:Ili9341_WriteData	1
+../Core/Src/lcdIli9341.c:170:20:Ili9341_ReadData	1
