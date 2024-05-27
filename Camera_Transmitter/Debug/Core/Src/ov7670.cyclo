@@ -1,0 +1,10 @@
+../Core/Src/ov7670.c:30:9:OV7670_Init	2
+../Core/Src/ov7670.c:55:9:OV7670_UploadSettings	2
+../Core/Src/ov7670.c:77:19:OV7670_StartCap	3
+../Core/Src/ov7670.c:96:19:OV7670_StopCap	1
+../Core/Src/ov7670.c:101:19:OV7670_ResetSW	1
+../Core/Src/ov7670.c:106:6:OV7670_ResetHW	1
+../Core/Src/ov7670.c:114:6:OV7670_RegisterCallback	1
+../Core/Src/ov7670.c:120:6:HAL_DCMI_FrameEventCallback	3
+../Core/Src/ov7670.c:141:26:OV7670_Write	1
+../Core/Src/ov7670.c:151:26:OV7670_Read	1
